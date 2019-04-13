@@ -1,0 +1,22 @@
+{
+  "name": "HomeModulesTest",
+  "version": "0.1.0",
+  "summary": "A short description of HomeModulesTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/silicn/HomeModulesTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "silicn": "silicn@126.com"
+  },
+  "source": {
+    "git": "https://github.com/silicn/HomeModulesTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HomeModulesTest/Classes/**/*"
+}
