@@ -8,6 +8,9 @@
 
 #import "SLViewController.h"
 
+#import <HomeModulesTest/Person.h>
+
+
 @interface SLViewController ()
 
 @end
@@ -17,6 +20,14 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    Person *p = [[Person alloc]init];
+    
+    p.name = "xiaoming";
+    
+    p.age = 18;
+
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

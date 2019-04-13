@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Person.h"
 
 FOUNDATION_EXPORT double HomeModulesTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char HomeModulesTestVersionString[];

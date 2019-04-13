@@ -17,7 +17,7 @@ HomeModulesTest is available through [CocoaPods](https://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'HomeModulesTest'
+pod 'HomeModulesTest','0.1.0'
 ```
 
 ## Author
