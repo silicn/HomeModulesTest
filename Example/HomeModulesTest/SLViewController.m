@@ -23,7 +23,7 @@
     
     Person *p = [[Person alloc]init];
     
-    p.name = "xiaoming";
+    p.name = @"xiaoming";
     
     p.age = 18;
 
