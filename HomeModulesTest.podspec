@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.3'
 
-  s.source_files = 'HomeModulesTest/HomeModulesTest/Classes/**/*'
+  s.source_files = 'HomeModulesTest/Classes/**/*{h,m}'
   
   # s.resource_bundles = {
   #   'HomeModulesTest' => ['HomeModulesTest/Assets/*.png']
