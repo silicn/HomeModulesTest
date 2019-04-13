@@ -9,6 +9,8 @@
 #import "SLViewController.h"
 
 #import <HomeModulesTest/Person.h>
+#import <HomeModulesTest/Students.h>
+
 
 
 @interface SLViewController ()
@@ -26,6 +28,8 @@
     p.name = @"xiaoming";
     
     p.age = 18;
+    
+    
 
     
 	// Do any additional setup after loading the view, typically from a nib.

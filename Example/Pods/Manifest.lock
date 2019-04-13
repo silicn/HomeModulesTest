@@ -1,5 +1,5 @@
 PODS:
-  - HomeModulesTest (0.1.0)
+  - HomeModulesTest (0.1.1)
 
 DEPENDENCIES:
   - HomeModulesTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HomeModulesTest: 738019fcbc8c258db09fd5ffefe95c5a6bf03775
+  HomeModulesTest: 5fa3bc6510cf7b1cb792e7c9c9c66c60d83cc443
 
 PODFILE CHECKSUM: 782efda32b8f2f08584840c9cc5831565dcd041e
 
